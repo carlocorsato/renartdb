@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 27 Dec 2016 14:09:02 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Dec 2016 14:09:02 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Dec 2016 14:32:48 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Dec 2016 14:32:48 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -14,11 +14,11 @@
         <description>
 </description>
         <pubDate>Wed, 03 Aug 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2016/08/03/map/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2016/08/03/map/</guid>
+        <link>http://localhost:4000/map/2016/08/03/map/</link>
+        <guid isPermaLink="true">http://localhost:4000/map/2016/08/03/map/</guid>
         
         
-        <category>Web Development</category>
+        <category>Map</category>
         
       </item>
     
