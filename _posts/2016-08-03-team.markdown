@@ -4,9 +4,9 @@ modal-id: 1
 date: 2016-08-01
 img: team.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: <div id="top"></div>
+project-date: Summer 2016
+project: RenArtDB
+category: Team
+description: <p><img src="profile_sample.png" alt="CarloCorsato" style="width:304px;height:228px"</p>
 
 ---
