@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Summer 2016
 project: RenArtDB
 category: Team
-description: <p><img src="profile_sample.png" alt="CarloCorsato" style="width:304px;height:228px"</p>
+description: <img class="img-circle" src="https://www.dropbox.com/s/l0h6td7tze65pgy/CarloCorsato.png?dl=1" alt="Smiley face" height="100" width="100"> <br> <br> <img class="img-circle" src="https://www.dropbox.com/s/zeua14x33908wjm/LauraCassidy.jpg?dl=1" alt="Smiley face" height="100" width="100">
 
 ---

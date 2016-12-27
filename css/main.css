@@ -37,6 +37,10 @@ a.active {
     color: #FC1922 !important;
 }
 
+.img-circle {
+  border-radius: 50%;
+}
+
 h1,
 h2,
 h3,
