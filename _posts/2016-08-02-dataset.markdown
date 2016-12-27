@@ -4,9 +4,9 @@ modal-id: 2
 date: 2016-08-02
 img: dataset.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: We may provide training on how to:<br>- prepare a <a href="#">data set</a> containing descriptive meta data on works of art according to curatorial standards;<br><br>- study, share and reuse information online;<br><br> - visualise and distribute a database through a <a href="https://carlocorsato.carto.com/viz/206c5c72-66fb-11e6-8585-0e3ff518bd15/public_map">multilayer map</a>.
+project-date: Summer 2016
+project: RenArtDB
+category: Data Set
+description: The data set of RenArtDB makes information on Renaissance art easily accessible and reusable.  Consisting of a selection of over 130 paintings and sculptures located in both Europe and North America, the dataset allows you to view, edit, implement, and fully reuse key descriptive meta data of each artwork, including both original and current locations.<br><br> RenArtDB Data Set 1.0 can be downloaded <a href="https://www.dropbox.com/s/bq3g9k99oej1wzj/RenArt_DB_Dataset_1.0.csv?dl=1" target="_blank">here</a>. <br><br> The data set does not require any registrations or software installations to be used or accessed. It comes as a .csv file and can be opened/edited with <a href="https://www.libreoffice.org/discover/calc/" target="_blank">Libreoffice Calc</a>, <a href="https://www.google.co.uk/sheets/about/" target="_blank">Google Sheets</a>, Ms Excel or Numbers for Mac.<br><br>Good res images can be also tracked down through both the data set (Column Image) and the Map (instructions in the <a href="#" target="_blank">Map</a> section).<br><br>Students collected and implemented the information forming the dataset. When reusing the dataset or part of it, credit should be given to each contributor as indicated in the entries of the spreadsheet (Column Data Entry) or the infoboxes on the map (Credit link). <br><br> We are grateful to both institutions and Wikipedia contributors for sharing online the information we have aggregated. Links to galleries and Wikipedia have been provided in the data set (Column Data Source). (We hope none is missing.) <br><br>We may provide training on how to:<br>- prepare a <a href="#">data set</a> containing descriptive meta data on works of art <br> according to curatorial standards;<br><br>- study, share and reuse information online;<br><br> - visualise and distribute a database through a <a href="https://carlocorsato.carto.com/viz/206c5c72-66fb-11e6-8585-0e3ff518bd15/public_map" target="_blank">multilayer map</a>.
 
 ---
